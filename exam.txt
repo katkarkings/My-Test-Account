@@ -1,2 +1,3 @@
 Hello
 This is my practical exam.
+time is 10:00 am.
